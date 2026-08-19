@@ -1,2 +1,1 @@
-# fish.py
-fishing game python script
+just a simple fishing game
